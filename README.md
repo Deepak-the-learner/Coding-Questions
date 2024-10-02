@@ -24,10 +24,23 @@ Welcome to the Hacktoberfest repository! 🎉 We're excited to have you particip
      ```c++
      // Problem Link: https://www.hackerrank.com/challenges/score-more-buddy/problem
      ```
+5. **Commit Message**:
+   - Your Commit Message must be `Score_More_Buddy_CC`, `Score_More_Buddy_CF`, `Score_More_Buddy_LC`, `Score_More_Buddy_IB`, `Score_More_Buddy_AC`,  `Score_More_Buddy_TC`, `Score_More_Buddy_HR`, `Score_More_Buddy_HE`,  `Score_More_Buddy_GFG`, `Score_More_Buddy_CN` based on your coding platform.
+      + CC - CodeChef
+      + CF - CodeForces
+      + LC - LeetCode
+      + IB - InterviewBit
+      + AC - AtCoder
+      + TC - TopCoder
+      + HR - HackerRank
+      + HE - HackerEarth
+      + GFG - GeeksForGeeks
+      + CN - Coding Ninjas
 
-5. **Avoid Irrelevant Submissions**:  
+6. **Avoid Irrelevant Submissions**:  
    - Any irrelevant contributions will be marked as **spam** and **reported**.
    - Examples include multiple trivial changes, unrelated files, or repetitive solutions to simple problems.
+   - Any wrong submissions will also be reported.
 
 ## 🚀 How to Contribute for First-Time Contributors
 
